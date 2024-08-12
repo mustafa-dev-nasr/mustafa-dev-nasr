@@ -1,10 +1,24 @@
-👋 Hi, I’m Mustafa Magdy (@mustafa-nasr-dev)
-About Me
-👀 Passionate Developer: I'm deeply interested in mobile app development with a focus on creating seamless user experiences using Flutter.
-🌱 Constant Learner: Currently expanding my expertise in advanced Flutter techniques, particularly state management with Flutter Bloc.
-💼 Open to Collaboration: I'm eager to collaborate on open-source Flutter projects and innovative app ideas that push the boundaries of mobile technology.
-📫 Connect with Me:
-Email: mustafa.nasr.dev@gmail.com
-Linktree: Mustafa Magdy's Links
-😄 Pronouns: He/Him
-🎯 Fun Fact: I have a knack for solving puzzles and enjoy participating in online coding challenges to sharpen my skills.
+Hi there 👋
+
+I'm using Flutter and Dart to build beautiful mobile applications. 🚀
+
+I love working with
+
+<div display="flex">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Bloc-%23F24E1E.svg?style=for-the-badge&logo=Bloc&logoColor=white" alt="Flutter Bloc"/>
+</div>
+
+📫 How to reach me
+
+  <a href="https://linktr.ee/mustafa_magdy">
+    <img src="https://img.shields.io/badge/linktree-%23E4405F.svg?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/>
+  </a>
+</div>
+<p align="center"> 
+  <i><b>Profile Visitor Count...</b></i><br>
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /><br>
+  <img src="https://profile-counter.glitch.me/lostgirljourney/count.svg" />
+</p>
